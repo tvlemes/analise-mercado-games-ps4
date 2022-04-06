@@ -9,3 +9,19 @@ A base de dados pode ser encontrada no arquivo PS4_GamesSales.csv
 <hr>
 
 ![](/image/grafico.png)
+
+<!-- Licença -->
+## Licença
+
+Distribuído sob a licença MIT License. Veja a `LICENSE` para mais informações.
+
+<!-- Contatos -->
+## Contatos
+
+Autor: `Thiago Vilarinho Lemes`
+
+Site: [`https://thiagolemes.herokuapp.com/`](https://thiagolemes.herokuapp.com)
+
+Email: `lemes_vilarinho@yahoo.com.br`
+
+Likedin: [`Thiago Vilarinho Lemes`](https://www.linkedin.com/in/thiago-vilarinho-lemes-b1232727/)
