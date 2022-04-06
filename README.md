@@ -2,7 +2,7 @@
 
 [![NPM](https://img.shields.io/github/license/tvlemes/analise-mercado-games-ps4)](https://github.com/tvlemes/analise-mercado-games-ps4/blob/main/LICENSE)
 
-Relatório produzido no treinamento de "Python para Análise de Dados" ministrado por @Odemir Depieri Jr.
+Relatório produzido no treinamento de "Python para Análise de Dados" ministrado por @Odemir Depieri Jr e @Ronisson Lucas Calmon da Conceição.
 
 A base de dados pode ser encontrada no arquivo PS4_GamesSales.csv
 
